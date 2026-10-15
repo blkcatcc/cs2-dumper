@@ -1,0 +1,14 @@
+# Build artifacts
+linux-dumper
+src/*.o
+
+# Runtime
+linux-dumper.log
+
+# Test fixture
+selftest-out/
+
+# Editor / OS
+*.swp
+*~
+.DS_Store
